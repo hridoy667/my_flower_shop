@@ -2,17 +2,21 @@ body{
     font-family: 'Lato', sans-serif;
     
 }
-header{
+.header{
     background-color:#E554731A; 
     width: 1920px;
     height: 850px;
+    justify-content:center;
     }
-    .bb{
-        display: flex;
-    }
+.ht{
+
+    
+}
 .ht>h1{
+
 height: 208px;
 width: 788px;
+padding-top: 50px;
 color: #272727;
 font-size: 80px;
 font-style: normal;
@@ -20,16 +24,23 @@ margin:197px 960px 365px 252px;
 }
 .ht>p{
 height:90px;
-width: 634px;
+width:634px;
 color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
 font-style: normal;
 margin: -250px 1034px 243px 252px;
 }
 .ht>button{
-    color: black;
     height:64px;
     width:177px;
-    margin: 39px ;
+    color: black;
+    border-radius: 8px;
+    background: #E55473; 
+    margin: -500px 1034px 243px 252px;  
+}
+.header>img{
     
+    width: 635px;
+    height: 800px;
+    margin: -940px 228px 900px 1057px;
 }
