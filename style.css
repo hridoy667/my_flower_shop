@@ -10,6 +10,26 @@ header{
     .bb{
         display: flex;
     }
-   .ht>h1{
-
-   }
+.ht>h1{
+height: 208px;
+width: 788px;
+color: #272727;
+font-size: 80px;
+font-style: normal;
+margin:197px 960px 365px 252px;
+}
+.ht>p{
+height:90px;
+width: 634px;
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-style: normal;
+margin: -250px 1034px 243px 252px;
+}
+.ht>button{
+    color: black;
+    height:64px;
+    width:177px;
+    margin: 39px ;
+    
+}
