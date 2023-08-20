@@ -8,8 +8,8 @@ body{
     display: flex;
     }
 .ht{
-   padding-left: 52px;
-   
+   padding-left: 252px;
+   text-align: left;
 }
 .ht>h1{
 padding-top: 50px;
@@ -36,4 +36,21 @@ padding-bottom: 32px;
     padding-top:50px;
    padding-right: 50px;
    padding-left: 97px;
+}
+
+.hp{
+    text-align: center;
+}
+.ps{
+    font-size: 40px;
+    font-weight:800px;
+    margin-top: 178px;
+    color: #272727;
+    
+}
+
+.paragraph{
+padding-bottom: 48px;
+margin-left: 663px;
+margin-right: 663px;
 }
